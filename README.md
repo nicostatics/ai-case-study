@@ -29,3 +29,9 @@ The business impact of this company so far has been monumental.  Netflix remains
 
 ## Recommendations
 Netflix continues to innovate and perform at the highest level it can.  However, global outreach strategy is one that requires a significant investment by Netflix - it has to acquire rights to local shows that could drive people to its platform.  One recommendation for Netflix would be to continue to invest in key markets such as LATAM and Southern Asia.  With the current offering of technological advancements in the platform along with the quality content that it can deliver, Netflix has a huge opportunity to capitalize on emerging creative markets.  Market basket analyses and machine learning optimization of content creation will allow Netflix to specialize their delivery of quality content to key markets.  
+
+
+### Sources
+1. [Netflix quarterly earnings statement](https://s22.q4cdn.com/959853165/files/doc_financials/2023/q4/NEW-FINAL-Q4-23-Shareholder-Letter.pdf)
+2. [Netflix tech blog](https://netflixtechblog.com/discovering-creative-insights-in-promotional-artwork-295e4d788db5)
+3. [Netflix Wikipedia page](https://en.wikipedia.org/wiki/Netflix)
